@@ -8,7 +8,7 @@ Measurement: 19 within range
 Count: 4
 Total: 82
 Mean: 20.5
-Review Count: 2
+Review count: 2
 Readiness: complete
 Participant count: 4
 Next checkpoint: 5
