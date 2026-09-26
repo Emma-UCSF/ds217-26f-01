@@ -20,4 +20,4 @@ mean = total / count
 print("Count:", count)
 print("Total:", total)
 print("Mean:", mean)
-print("Review Count:", review_count)
+print("Review count:", review_count)
