@@ -1,10 +1,6 @@
 measurements = [18, 21, 24, 19]
 review_threshold_text = "20"
 
-# Testing
-# measurements = [21, 30, 11, 9]
-# review_threshold_text = "15"
-
 # Replace this scaffold output with your calculation, loop, decision, and summary.
 # print("TODO: complete the measurement summary")
 review_threshold = int(review_threshold_text)
